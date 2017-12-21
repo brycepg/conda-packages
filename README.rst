@@ -1,5 +1,8 @@
-WIP
-===
+Pyfiglet, asciimatics conda package
 
-I need to create a package for pyfiglet>=0.7.2 for asciimatics
+Usage::
 
+    conda-build pyfiglet
+    conda-build asciimatics
+    conda-install --use-local pyfiglet
+    conda-install --use-local asciimatics
