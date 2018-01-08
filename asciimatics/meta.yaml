@@ -1,8 +1,8 @@
 package:
     name: 'asciimatics'
-    version: '1.8.0'
+    version: '1.9.0'
 source:
-    git_rev: "1.8.0"
+    git_rev: "1.9.0"
     git_url: "https://github.com/peterbrittain/asciimatics.git"
 requirements:
     build:
